@@ -5,3 +5,6 @@
 </br>
 
 <div style="width:100%;"><a href="https://aa513.gq/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-djy.png?raw=true"/></a></div>
+
+</br>
+技术支持：© 中国禁片网
