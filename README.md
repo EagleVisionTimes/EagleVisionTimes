@@ -1,4 +1,4 @@
-<div style="width:100%;background-color:#eee;"><a href="https://a513.online/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-zgjp.png?raw=true"/></a></div>
+<div style="width:100%;background-color:#eee;"><a href="https://fl513.xyz/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-zgjp.png?raw=true"/></a></div>
 
 </br>
 <div style="width:100%;"><a href="https://fl513.site/b5/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-xtr.png?raw=true"/></a></div>
