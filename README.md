@@ -6,7 +6,7 @@
 <div style="width:100%;"><a href="https://x513.fun/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-xtr.png?raw=true"/></a></div>
 </br>
 
-<div style="width:100%;"><a href="https://j513.shop/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-djy.png?raw=true"/></a></div>
+<div style="width:100%;"><a href="https://djy513.online/"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-djy.png?raw=true"/></a></div>
 
 </br>
  【相关】<a href="http://aq425.xyz/">云盘</a> | <a href="https://td513.site">退党</a> | <a href="https://mh.m513.shop/">明慧</a>  |  <a href="https://m513.shop/">大法</a> 
