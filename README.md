@@ -1,4 +1,5 @@
-<p align="center">请点击访问：</div>
+
+ <p align="center"><b>请点击访问：</b></p>
 
 <div style="width:100%;background-color:#eee;"><a href="https://j513.site/" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/nav-zgjp.png?raw=true"/></a></div>
 
