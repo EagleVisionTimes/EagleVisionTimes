@@ -2,7 +2,7 @@
 <div id="home"></div>
 <br>
 
-请点击访问：<span><a href="https://rbz60z.bingte.site/62">干净世界</a>｜<span><a href="https://g.c1992.store" target="_self">中国禁片</a></span>｜<span><a href="https://mn.c1992.store/ntdtv/58438/">新唐人电视台</a></span>｜<span><a href="https://et.c1992.store/dajiyuan/59114/">大纪元时报</a></span>
+请点击访问：<span><a href="https://g.c1992.store">干净世界</a>｜<span><a href="https://g.c1992.store" target="_self">中国禁片</a></span>｜<span><a href="https://mn.c1992.store/ntdtv/58438/">新唐人电视台</a></span>｜<span><a href="https://et.c1992.store/dajiyuan/59114/">大纪元时报</a></span>
 
 <div style="width:100%;background-color:#eee;"><a href="https://g.c1992.store" target="_self"><img src="https://github.com/JohnChen201502/jinpian/blob/master/git-ganjing.jpg?raw=true"/></a></div>
 </br>
